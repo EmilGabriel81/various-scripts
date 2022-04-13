@@ -1,7 +1,7 @@
 #!/bin/bash
  # A simple script to check if a file exists
 
-# Variables
+# Variables :
 TITLE=$0
 FILE=$1
 
